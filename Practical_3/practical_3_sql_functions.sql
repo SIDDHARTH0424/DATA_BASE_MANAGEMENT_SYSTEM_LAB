@@ -1,4 +1,3 @@
---Name: Anushri Adapawar
 
 -- 1. Subquery: Find the products with the highest selling price in the Product table
 SELECT Product_Name, Selling_Price
