@@ -1,4 +1,3 @@
---Name: Anushri Adapawar
 
 -- Insert into User_Table
 INSERT INTO User_Table (User_ID, User_Name, Role, Password) VALUES (1, 'admin1', 'Admin', 'admin123');
