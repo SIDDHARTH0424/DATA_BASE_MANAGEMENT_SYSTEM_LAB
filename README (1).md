@@ -64,12 +64,9 @@ By working through this repository, you'll learn to:
 
 ## 👤 Author
 
-**Anushri Adapawar**
+**Siddharth Pimpalkar**
 
 ## 🤝 Contributing
 
 *Contributions are welcome! Please fork the repository and submit a pull request.*
 
-## 📄 License
-
-*Specify a license if applicable (e.g., MIT, Apache 2.0).*
