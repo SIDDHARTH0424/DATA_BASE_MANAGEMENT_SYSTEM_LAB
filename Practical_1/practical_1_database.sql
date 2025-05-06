@@ -1,4 +1,3 @@
---Name: Anushri Adapawar
 
 -- Create Product table
 CREATE TABLE Product (
