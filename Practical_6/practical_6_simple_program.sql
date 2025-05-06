@@ -1,4 +1,3 @@
---Name: Anushri Adapawar
 
 
 -- Simple PL/SQL Program: Print a message
