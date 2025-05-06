@@ -1,4 +1,3 @@
---Name: Anushri Adapawar
 
 -- Add Balance column to Customer table 
 ALTER TABLE Customer ADD Balance NUMBER(10,2);
