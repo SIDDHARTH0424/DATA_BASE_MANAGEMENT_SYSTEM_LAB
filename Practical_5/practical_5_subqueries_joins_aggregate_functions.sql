@@ -1,4 +1,3 @@
---Name: Anushri Adapawar
 
 -- 1. Retrieve all products whose selling price is above 200
 SELECT Product_Name, Selling_Price
