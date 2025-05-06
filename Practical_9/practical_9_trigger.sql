@@ -1,4 +1,3 @@
---Name: Anushri Adapawar
 
 -- Example Trigger: Before insert on Sales_Order, check stock availability
 
