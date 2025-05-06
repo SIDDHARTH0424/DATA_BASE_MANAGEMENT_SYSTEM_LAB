@@ -1,4 +1,3 @@
---Name: Anushri Adapawar
 
 -- 1. AND Operator: Find products where selling price is between 100 and 300, and stock quantity is greater than 50
 SELECT Product_Name, Selling_Price, Stock_Quantity 
